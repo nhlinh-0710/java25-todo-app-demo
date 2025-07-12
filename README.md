@@ -1,2 +1,4 @@
-# java25-todo-app-demo
-This is demo for remote repository with Java25 class
+project: java25-todo-app-demo
+
+Version: todo-app-1.0-snapshot
+
